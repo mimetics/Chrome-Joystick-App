@@ -1,0 +1,18 @@
+{
+  "name": "Game3 as Chrome App",
+  "version": "3",
+  "manifest_version": 2,
+  "minimum_chrome_version": "33",
+  "description": "Show Gamepad/Joystick State",
+
+  "icons": {
+    "128": "img/gp_128.png"
+  },
+
+  "app": {
+    "background": {
+      "scripts": ["game3-entry.js"]
+    }
+  }
+
+}

@@ -1,0 +1,129 @@
+/*  Jade Action css
+    - Setup connect buttons
+    - Setup logging area
+*/
+
+#buttonType input {
+    width: 10em;
+    border: 1px black solid;
+    background-color: #44DD44;
+    box-shadow: 3px 3px 3px gray;
+    color: white;
+}
+
+#buttonType input:hover {
+    width: 10em;
+    border: 1px black solid;
+    background-color: #22AA22;
+    box-shadow: 1px 1px 1px gray;
+    color: white;
+}
+
+
+.button {
+    font: italic 110% arial, sans-serif;
+    text-align: center;
+    float: left;
+    width: 9em;
+    border-right: 5px white solid;
+    padding-left: 1em;
+/*    
+    color: white;
+    background-color: #CCCCFF;
+*/    
+    color: black;
+    background-color: white;
+}
+
+
+#joystick1Header {
+    position: absolute;  left:  60px;  top: 125px;
+}
+#joystick1 {
+    position: absolute;  left:  10px;  top: 170px;
+}
+#joystick1Ball {
+    position: absolute;  left:  10px;  top: 170px;
+}
+#joystick1X {
+    position: absolute;  left:  10px;  top: 370px;
+}
+#joystick1Y {
+    position: absolute;  left: 110px;  top: 370px;
+}
+#joystick2Header {
+    position: absolute;  left: 270px;  top: 125px;
+}
+#joystick2 {
+    position: absolute;  left: 220px;  top: 170px;
+}
+#joystick2Ball {
+    position: absolute;  left: 220px;  top: 170px;
+}
+#joystick2X {
+    position: absolute;  left: 220px;  top: 370px;
+}
+#joystick2Y {
+    position: absolute;  left: 320px;  top: 370px;
+}
+#joystick3Header {
+    position: absolute;  left: 480px;  top: 125px;
+}
+#joystick3 {
+    position: absolute;  left: 430px;  top: 170px;
+}
+#joystick3Ball {
+    position: absolute;  left: 430px;  top: 170px;
+}
+#joystick3X {
+    position: absolute;  left: 430px;  top: 370px;
+}
+#joystick3Y {
+    position: absolute;  left: 530px;  top: 370px;
+}
+
+#joystick4Header {
+    position: absolute;  left:  60px;  top: 380px;
+}
+#joystick4 {
+    position: absolute;  left:  10px;  top: 425px;
+}
+#joystick4Ball {
+    position: absolute;  left:  10px;  top: 425px;
+}
+#joystick4X {
+    position: absolute;  left:  10px;  top: 625px;
+}
+#joystick4Y {
+    position: absolute;  left: 110px;  top: 625px;
+}
+#joystick5Header {
+    position: absolute;  left: 270px;  top: 380px;
+}
+#joystick5 {
+    position: absolute;  left: 220px;  top: 425px;
+}
+#joystick5Ball {
+    position: absolute;  left: 220px;  top: 425px;
+}
+#joystick5X {
+    position: absolute;  left: 220px;  top: 625px;
+}
+#joystick5Y {
+    position: absolute;  left: 320px;  top: 625px;
+}
+#joystick6Header {
+    position: absolute;  left: 480px;  top: 380px;
+}
+#joystick6 {
+    position: absolute;  left: 430px;  top: 425px;
+}
+#joystick6Ball {
+    position: absolute;  left: 430px;  top: 425px;
+}
+#joystick6X {
+    position: absolute;  left: 430px;  top: 625px;
+}
+#joystick6Y {
+    position: absolute;  left: 530px;  top: 625px;
+}

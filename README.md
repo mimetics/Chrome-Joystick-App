@@ -7,3 +7,4 @@ This app uses the "navigator.getGamepads" API - to make the application recogniz
 
 X-Box Gamepads, Logitech F310 Gamepads have been tested with this App as well as Logitech Extreme 3D Pro Joystick.  
 
+![Screenshot of Application](https://raw.githubusercontent.com/mimetics/Chrome-Joystick-App/master/assets/screenShot.png)
